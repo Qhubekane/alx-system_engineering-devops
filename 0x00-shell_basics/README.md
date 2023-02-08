@@ -10,3 +10,4 @@
 9)My first dir delete
 10) Back to previous dir
 11)listby paths
+12)Show file type
