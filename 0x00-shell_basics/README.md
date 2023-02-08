@@ -7,3 +7,4 @@
 6)My first directory
 7)Move betty to tmp
 8)Delete betty
+9)My first dir delete
