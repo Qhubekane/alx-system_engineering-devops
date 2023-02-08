@@ -2,3 +2,4 @@
 1)list items
 2)go to home directory
 3)list contents in a long format
+4)List hidden files
