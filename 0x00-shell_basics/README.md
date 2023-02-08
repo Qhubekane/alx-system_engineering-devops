@@ -16,3 +16,4 @@
 15) Move upper case files
 16) Remove files ending with ~
 17) Creating a directory tree
+18)Commas
