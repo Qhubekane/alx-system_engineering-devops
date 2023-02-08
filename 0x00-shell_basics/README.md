@@ -1,3 +1,4 @@
-current working directory
-list items
-go to home directory
+0)current working directory
+1)list items
+2)go to home directory
+3)list contents in a long format
