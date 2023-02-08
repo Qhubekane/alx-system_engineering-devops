@@ -13,3 +13,4 @@
 12)Show file type
 13) symbolic link
 14) Copy new html files to parent directory
+15) Move upper case files
