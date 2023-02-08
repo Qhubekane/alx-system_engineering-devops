@@ -6,3 +6,4 @@
 5)List long format hidden files numerically
 6)My first directory
 7)Move betty to tmp
+8)Delete betty
