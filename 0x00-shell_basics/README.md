@@ -5,3 +5,4 @@
 4)List hidden files in long format
 5)List long format hidden files numerically
 6)My first directory
+7)Move betty to tmp
