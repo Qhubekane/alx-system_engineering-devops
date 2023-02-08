@@ -11,3 +11,4 @@
 10) Back to previous dir
 11)listby paths
 12)Show file type
+13) symbolic link
