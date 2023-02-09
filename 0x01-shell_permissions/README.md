@@ -5,3 +5,4 @@
 4) Create empty file
 5) Add execution permission
 6) Add permisions to groups and others
+7) x perm to all
